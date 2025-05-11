@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 form_html = """
 <!doctype html>
-<title>HelloUser</title>
+<title>HelloUserWelcome</title>
 <h2>Enter your name</h2>
 <form method="POST">
   <input type="text" name="name" placeholder="Your name">
